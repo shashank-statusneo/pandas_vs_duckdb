@@ -1,0 +1,19 @@
+# Default ignored files
+/shelf/
+**xml
+*/venv/*
+venv
+/logs/
+/instance/
+*.pyc
+*.log
+*.coverage
+**/.idea/workspace.xml
+**/.idea/tasks.xml
+*.idea
+/.idea/
+/env
+.vscode
+__pycache__/
+.pytest_cache/
+.env
